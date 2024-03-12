@@ -1,0 +1,24 @@
+#flash-env-logo {
+    width: 35%;
+    height: 35%;
+  }
+
+.landing-page-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+  
+.landing-page-container > * {
+  margin-bottom: 5px; 
+  margin-top: 5px;
+}
+
+/* Style for the button container */
+.landing-button-container {
+  display: flex;
+  justify-content: space-around; 
+  margin-top: 0px; 
+}
